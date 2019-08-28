@@ -1,0 +1,18 @@
+{
+    "name": "wuheng/invoice",
+    "description": "invoive support in laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "simba.wu",
+            "email": "situowuyi@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Simba\\Invoice\\": "src/"
+        }
+    }
+}
